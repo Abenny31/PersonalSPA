@@ -37,7 +37,7 @@ const HomeHero = () => {
           </div>
         </div>
         <div className="relative flex w-full max-w-xs shrink-0 items-center justify-center overflow-hidden rounded-full border border-slate-200 bg-slate-100 shadow-xl ring-4 ring-primary/10 sm:max-w-sm lg:max-w-md">
-          <img src="/profile-ante.jpeg" alt={t('hero.imageAlt')} className="h-full w-full object-cover" loading="lazy" />
+          <img src={`${import.meta.env.BASE_URL}profile-ante.jpeg`} alt={t('hero.imageAlt')} className="h-full w-full object-cover" loading="lazy" />
         </div>
       </div>
     </section>
