@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ante Beni\u0107 | Software Developer",
+    "description": "Software engineer specialising in .NET, SQL Server, desktop and web development, delivering maintainable solutions from concept to deployment."
+  },
+  "hero": {
+    "badge": ".NET & SQL specialist",
+    "title": "Hi, I'm Ante Beni\u0107",
+    "subtitle": "I build reliable WinForms, .NET, and SQL Server solutions with seamless integrations across the Microsoft stack.",
+    "cta": "Let's talk",
+    "secondaryCta": "View GitHub profile",
+    "imageAlt": "Portrait of Ante Beni\u0107",
+    "highlights": [
+      "WinForms & .NET delivery",
+      "SQL Server automation",
+      "Desktop & web development"
+    ]
+  },
+  "nav": {
+    "brand": "Ante Beni\u0107",
+    "menuLabel": "Main navigation",
+    "toggleLabel": "Toggle navigation",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "about": {
+    "title": "About",
+    "body": [
+      "I’m a software engineer with a solid background in .NET and SQL Server, plus hands-on experience with React and TypeScript. I'm learning Azure administration and have practical know-how deploying apps to IIS and similar environments. I’m currently focused on complex desktop applications and REST/SOAP API systems—maintaining, modernizing, and integrating services that keep critical workflows running.",
+      "Previously, I led teams responsible for people coordination, planning, and end-to-end project execution—experience that sharpened my communication and delivery. I bring that structure into software: connecting stakeholders, translating requirements into clear solutions, and shipping maintainable features. Curious by nature, I enjoy mentoring and continuously investing in learning across the Microsoft ecosystem."
+    ],
+    "highlightTitle": "Recent highlights",
+    "highlights": [
+      "Software Developer \u00b7 Bit-art Informatika (2021 \u2013 present)",
+      "Team Lead \u00b7 Red Cross Lifeguard Association Split (2016 \u2013 2021)",
+      "Master of Science in Kinesiology & Web Developer ASP.NET certificate"
+    ]
+  },
+  "projects": {
+    "title": "Highlighted Work",
+    "description": "Snapshots from recent initiatives where I led delivery, integrations, or process improvements across the Microsoft stack.",
+    "cta": {
+      "live": "Live",
+      "code": "GitHub"
+    },
+    "items": {
+      "netApiReact": {
+        "title": ".NET with react vite ",
+        "description": "Combined .NET backend and React Vite frontend template. Supports static build deployment through .NET’s wwwroot, or dynamic serving via Node/Vite development server."
+      },
+      "netAPI": {
+        "title": ".NET API",
+        "description": "Web app with React frontend and .NET API on backend. Calling API getData collects from spacex-api all the data and inserts in SQL Server db using EF Core. Returns data from local db. React shows all data with enabled filtering, pagination and favourites. Favourites are made for session."
+      },
+      "contactManager": {
+        "title": "Contact manager",
+        "description": "Winform app with json db"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's explore how we can collaborate. Reach out via the form or direct contact details.",
+    "success": "Thanks! Your message has been sent.",
+    "error": "Something went wrong. Please try again.",
+    "labels": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "location": "Location",
+      "github": "GitHub",
+      "availability": "Availability"
+    },
+    "details": {
+      "title": "Direct contact",
+      "location": "Split, Croatia",
+      "email": "ante_benic@hotmail.com",
+      "linkedin": "www.linkedin.com/in/ante-benic",
+      "availability": "Open to remote-friendly teams and complex integration work.",
+      "github": "github.com/abenny31"
+    }
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "agree": "I agree to data processing",
+    "send": "Send",
+    "namePlaceholder": "Your name or team",
+    "emailPlaceholder": "you@company.com",
+    "messagePlaceholder": "Share project context, timeline, or goals.",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "agreement": "You must accept data processing to continue."
+    },
+    "sending": "Sending..."
+  }
+}

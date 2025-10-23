@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ante Beni\u0107 | Softverski developer",
+    "description": "Softverski in\u017eenjer specijaliziran za .NET, SQL Server i integracije platnih sustava, s fokusom na odr\u017eiva rje\u0161enja od ideje do produkcije."
+  },
+  "hero": {
+    "badge": ".NET i SQL specijalist",
+    "title": "Bok, ja sam Ante Beni\u0107",
+    "subtitle": "Gradim pouzdana WinForms, .NET i SQL Server rje\u0161enja s besprijekornim integracijama u Microsoft ekosustavu.",
+    "cta": "Javi mi se",
+    "secondaryCta": "Pogledaj GitHub profil",
+    "imageAlt": "Portret Ante Beni\u0107a",
+    "highlights": [
+      "WinForms i .NET isporuka",
+      "SQL Server automatizacija",
+      "Integracije pla\u0107anja i fiskalizacije"
+    ]
+  },
+  "nav": {
+    "brand": "Ante Beni\u0107",
+    "menuLabel": "Glavna navigacija",
+    "toggleLabel": "Otvori ili zatvori navigaciju",
+    "about": "O meni",
+    "projects": "Projekti",
+    "contact": "Kontakt",
+    "language": "Jezik"
+  },
+  "about": {
+    "title": "O meni",
+    "body": [
+      "Softverski sam inženjer s čvrstom podlogom u .NET-u i SQL Serveru te iskustvom u radu s Reactom i TypeScriptom. Učim administraciju Azurea te imam praktično iskustvo postavljanja aplikacija na IIS i slična okruženja. Trenutno radim na složenim desktop aplikacijama i REST/SOAP API sustavima—na održavanju, modernizaciji i integraciji usluga koje drže ključne procese aktivnima.",
+      "Prije toga vodio sam timove zadužene za koordinaciju ljudi, planiranje i potpunu provedbu projekata—iskustvo koje je dodatno izbrusilo moju komunikaciju i isporuku. Taj pristup primjenjujem u razvoju softvera: povezujem dionike, prevodim zahtjeve u jasna rješenja i isporučujem održive funkcionalnosti. Po prirodi sam znatiželjan, volim mentorirati i stalno ulažem u učenje unutar Microsoft ekosustava."
+    ],
+    "highlightTitle": "Klju\u010dni naglasci",
+    "highlights": [
+      "Softverski developer \u00b7 Bit-art informatika (2021. \u2013 danas)",
+      "Voditelj tima \u00b7 Crveni kri\u017e Split (2016. \u2013 2021.)",
+      "Magistar kineziologije i Algebra Web developer ASP.NET certifikat"
+    ]
+  },
+  "projects": {
+    "title": "Istaknuti projekti",
+    "description": "Sa\u017eeci nedavnih inicijativa gdje sam vodio isporuku, integracije ili unaprje\u0111enja procesa unutar Microsoft stacka.",
+    "cta": {
+      "live": "Live",
+      "code": "GitHub"
+    },
+    "items": {
+      "netApiReact": {
+        "title": ".NET s React Vite",
+        "description": "Kombinirana .NET backend i React Vite frontend predloška. Podržava statičku izgradnju kroz .NET-ov wwwroot ili dinamičko posluživanje putem Node/Vite development servera."
+      },
+      "netAPI": {
+        "title": ".NET API",
+        "description": "Web aplikacija s React frontendom i .NET API backendom. Pozivanje API getData prikuplja sve podatke iz spacex-api i umeće ih u SQL Server bazu koristeći EF Core. Vraća podatke iz lokalne baze. React prikazuje sve podatke s omogućenim filtriranjem, paginacijom i favoritima. Favoriti su napravljeni za sesiju."
+      },
+      "contactManager": {
+        "title": "Upravitelj kontakata",
+        "description": "Winform aplikacija s JSON bazom podataka"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Razgovarajmo o suradnji. Mo\u017ee\u0161 me kontaktirati putem forme ili izravnih podataka.",
+    "success": "Hvala! Poruka je poslana.",
+    "error": "Ne\u0161to je po\u0161lo po zlu. Poku\u0161aj ponovno.",
+    "labels": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "location": "Lokacija",
+      "github": "GitHub",
+      "availability": "Dostupnost"
+    },
+    "details": {
+      "title": "Izravni podaci",
+      "location": "Split, Hrvatska",
+      "email": "ante_benic@hotmail.com",
+      "linkedin": "www.linkedin.com/in/ante-benic",
+      "availability": "Otvoren za timove koji rade na daljinu i kompleksne integracije.",
+      "github": "github.com/abenny31"
+    }
+  },
+  "form": {
+    "name": "Ime",
+    "email": "Email",
+    "message": "Poruka",
+    "agree": "Sla\u017eem se s obradom podataka",
+    "send": "Po\u0161alji",
+    "namePlaceholder": "Naziv osobe ili tima",
+    "emailPlaceholder": "ti@tvrtka.com",
+    "messagePlaceholder": "Podijeli ideju, kontekst ili ciljeve projekta.",
+    "errors": {
+      "required": "Ovo polje je obavezno.",
+      "email": "Unesi ispravnu email adresu.",
+      "agreement": "Mora\u0161 prihvatiti obradu podataka."
+    },
+    "sending": "Slanje..."
+  }
+}
